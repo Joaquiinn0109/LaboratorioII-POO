@@ -1,0 +1,1 @@
+Hola!! Esto es una muestra sobre caracteres en un arreglo unidemensional!!.
